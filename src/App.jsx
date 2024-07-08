@@ -1,16 +1,16 @@
-import { useState } from 'react'
-import reactLogo from './assets/react.svg'
-import viteLogo from '/vite.svg'
 import './App.css'
+import Quiz from './Components/Quiz.jsx'
+
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
     <>
       <div>
+        <h2>Quizz App React</h2>
         {/* https://opentdb.com/api.php?amount=10&category=17&difficulty=easy&type=multiple */}
-        </div>
+      </div>
+      <Quiz/>
     </>
   )
 }
