@@ -1,6 +1,6 @@
 // src/components/Quiz.js
 import  { useContext } from 'react';
-import { QuizContext } from '../context/QuizContext';
+import { QuizContext } from '../Context/QuizContext.jsx';
 
 const Quiz = () => {
   const { questions, currentQuestion, nextQuestion, incrementScore, loading } = useContext(QuizContext);
