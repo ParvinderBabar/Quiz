@@ -1,0 +1,33 @@
+[
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "What is the chemical symbol for the element Oxygen?",
+    "correct_answer": "O",
+    "incorrect_answers": ["Ox", "O2", "Og"]
+  },
+  {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which planet is known as the Red Planet?",
+    "correct_answer": "Mars",
+    "incorrect_answers": ["Jupiter", "Saturn", "Venus"]
+  },
+   {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which planet is known as the Red Planet?",
+    "correct_answer": "Mars",
+    "incorrect_answers": ["Jupiter", "Saturn", "Venus"]
+  }, {
+    "category": "Science & Nature",
+    "type": "multiple",
+    "difficulty": "easy",
+    "question": "Which planet is known as the Red Planet?",
+    "correct_answer": "Mars",
+    "incorrect_answers": ["Jupiter", "Saturn", "Venus"]
+  }
+]
